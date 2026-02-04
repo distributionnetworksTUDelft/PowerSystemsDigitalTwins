@@ -1,6 +1,6 @@
 (intro)=
-# Welcome to the Template Book
+# Introduction to Power Systems Digital Twin
 
 _This is the first page the student will see when opening the url._
 
-This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative and some exercises to get you going!
+Welcome to the book "Introduction to Power Systems Digital Twins" by Pedro P. Vergara (Associate Professor), at Delft University of Technology, in the Netherlands. 
