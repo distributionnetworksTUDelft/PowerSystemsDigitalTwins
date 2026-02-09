@@ -6,10 +6,11 @@ root: intro.md
 parts:
   - caption: Introduction # A title for the whole the subtree, e.g. shown above the subtree in ToCs, configuration part of sphinx-external-toc (https://sphinx-external-toc.readthedocs.io/en/latest/intro.html)
     chapters:
-    - file: some_content/overview.md
-      sections:
-      - file: some_content/text_and_code.ipynb
-      - file: chapter_1.md
+    - file: introduction/intro.md
+    
+ - caption:  Part I - Fundamentals # fundamentals of the book
+   chapters:
+   - file: part_1/chapter_1.md
  
   - caption: Exercises
     chapters:
