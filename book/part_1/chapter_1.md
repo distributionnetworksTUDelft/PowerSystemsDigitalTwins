@@ -5,16 +5,20 @@ Before diving into the more complex topic of digital twins, we need to strengthe
 ## Modelling Scope and Purpose
 The scope of a model determines the desired system representation, and its purpose defines and constrains its features and developments. Based on their modelling purpose, one can define four different categories of models. These are predictive, prescriptive, descriptive, and conceptual, as presented in Table X. In power systems, we are used to all these types of models, with descriptive and conceptual models being of greater interest, as they help us enhance our understanding of the system's properties. Different from predictive and prescriptive models, which focus on the input $x$ and output $y$ relationship, descriptive and conceptual models are more interested in the internal structure and how different internal subsystems are interconnected and share data. Accordingly, different model categories require different data and knowledge of the system being modeled. As examples of predictive and prescriptive models, we find those based on machine learning (e.g., neural networks), usually known as black-box models, while descriptive and conceptual models are usually based on the physics of the specific behaviour being modeled and are known as white-box models. Naturally, a combination of both approaches is also available, leading to the development of hybrid models, often known as grey models. Each of these model categories comes with its own features and constraints. Depending on the physical phenomenon being modeled, developing predictive and prescriptive models is typically straightforward. As a result, such models are easy to validate and deploy in more complex engineering workflows and are ideal for applications that require real-time outputs. In contrast, descriptive and conceptual models require extensive knowledge and expertise to develop and often involve complex subsystems or submodels that may require significant computational resources for providing outputs, limiting their application in real-time settings. 
 
-```{list-table} This table title
+```{list-table} Cattegories of Models
 :header-rows: 1
-:name: example-table
+:name: category-models
 
-* - Training
-  - Validation
-* - 0
-  - 5
-* - 13720
-  - 2744
+* - Type
+  - Description
+* - Predictive
+  - Determine an input that leads to a desired output (given $y$, what is $x$)
+* - Prescriptive
+  - Estimate the output for a given input (given $x$, what is $y$)
+* - Descriptive
+  - Summarise the observed behaviour of a system across its inputs and outputs (the set of $(x,y)$ pairs)
+* - Conceptual
+  - Improve the understanding of the system (explore the properties of $f()$, often with the intent to generalize)
 ```
 
 ## Models, Solvers, and Simulations
