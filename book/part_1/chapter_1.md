@@ -1,4 +1,6 @@
-# Chapter 1
+# Modelling in Engineering
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Before diving into the more complex topic of digital twins, we need to strengthen our understanding of what a model is in the context of engineering. According to Bossel, a model can be defined as "...a simplified representation of a particular domain of reality." Additionally, Bosse argues that "... if a model is valid, it is only for a particular domain and it was developed for a particular purpose." Bossel's definition highlights important features applicable for any model in engineering. First, a model is a simplification of a real system; thus, it is not the real system itself, nor can it be considered a copy of it. This distinction is important in the context of digital twins, as (advanced physical) models tend to be confused with digital twins. Second, different purposes require different models. 
+
+
 
