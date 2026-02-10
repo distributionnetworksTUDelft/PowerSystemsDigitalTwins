@@ -11,6 +11,7 @@ parts:
   - caption: Fundamentals # fundamentals of the book
     chapters:
     - file: part_1/chapter_1.md
+    - file: part_1/chapter_2.md
   - caption: Exercises
     chapters:
     - file: exercises.md
