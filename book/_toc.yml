@@ -18,24 +18,6 @@ parts:
     chapters:
     - file: part_2/chapter_5.md
     - file: part_2/chapter_6.md
-  - caption: Exercises
-    chapters:
-    - file: syntax_exercises.md
-      sections:
-      - file: syntax_exercises/007.md
-      - file: syntax_exercises/008.md
-      - file: syntax_exercises/009.md
-      - file: syntax_exercises/010.md
-      - file: syntax_exercises/011.md
-      - file: syntax_exercises/012.md
-      - file: syntax_exercises/013.md
-    - file: extensions.md
-      sections:
-      - file: exercises/007.md
-      - file: extension_exercises/017.md
-      - file: extension_exercises/014.md
-      - file: extension_exercises/015.md
-      - file: extension_exercises/016.md
   - caption: Miscellaneous
     chapters:
     - file: references.md
