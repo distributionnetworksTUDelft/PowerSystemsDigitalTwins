@@ -28,10 +28,10 @@ To better understand the relationships among models, algorithms, and simulators,
 
 ```{figure} ../part_1/models_simulation_blocks.png
 ---
-height: 150px
+height: 300px
 name: models_simulation_blocks
 ---
-Here is my figure caption!
+Schematic representation of the information and data exchange in a simulation analysis setup. 
 ```
 
 
