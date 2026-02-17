@@ -1,3 +1,4 @@
 # References
 :::{bibliography}
+:style: unsrt
 :::
