@@ -7,7 +7,9 @@ At the distribution level, electricity is progressively stepped down from transm
 
 Transmission and distribution systems exhibit significant electrical and operational differences. In general, distribution systems have a higher resistance-to-reactance ($R/X$) ratio than transmission systems. From an operational perspective, distribution systems operate in radial configurations, whereas transmission systems operate in loop or meshed configurations. Finally, distribution systems usually operate under unbalanced three-phase behaviour, while transmission systems tend to operate in balanced conditions. All these differences can be seen in the assumptions used when developing models for both transmission and distribution systems. 
 
+```{tip} 
 For a more detailed description of transmission and distribution systems, readers are referred to {cite:p}`SchavemakervanderSluis` and {cite:p}`ptpbook`.
+```
 
 ## Power Systems Modelling
 
