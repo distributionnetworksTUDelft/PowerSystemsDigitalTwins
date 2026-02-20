@@ -11,7 +11,7 @@ NASA's definition recognizes three key features of DTs: a *physical entity (or s
 height: 300px
 name: key_features_dt
 ---
-Schematic representation of the information and data exchange in a simulation analysis setup. 
+Key DT features recognized by the NASA and CIRP definitions. The NASA and CIRP definitions overlook the fact that DTs can also deliver value across all life-cycle phases of a system or product. Figure taken from {cite:p}`Zomerdijk2024`. 
 ```
 
 ### Digital Twins vs Models
